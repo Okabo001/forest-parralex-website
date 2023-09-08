@@ -1,5 +1,4 @@
 # forest-parralex-website
-# Forest Parallax Website
 
 Welcome to the Forest Parallax Website project! This repository contains all the code and assets needed to create an immersive and visually captivating website featuring parallax scrolling effects centered around a forest theme.
 
@@ -21,7 +20,7 @@ This website aims to provide an engaging online experience by utilizing parallax
 
 1. **Clone the Repository**: Begin by cloning this repository to your local machine:
 
-git clone https://github.com/yourusername/forest-parallax-website.git
+git clone https://github.com/Okabo001/forest-parallax-website.git
 
 markdown
 Copy code
